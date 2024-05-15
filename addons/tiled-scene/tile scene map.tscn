@@ -1,0 +1,7 @@
+[gd_scene load_steps=2 format=3 uid="uid://dtrlnu0toao7n"]
+
+[ext_resource type="Script" path="res://addons/tiled-scene/tile scene map.gd" id="1_mhrap"]
+
+[node name="TileSceneMap" type="TileMap"]
+format = 2
+script = ExtResource("1_mhrap")

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 370 300" xmlns="http://www.w3.org/2000/svg" xmlns:bx="https://boxy-svg.com">
+  <path d="M 249.812 43.133 L 346.734 92.087 L 249.812 141.041 L 152.89 92.087 Z" style="stroke: rgb(0, 0, 0); paint-order: stroke; fill: rgb(255, 255, 255); stroke-width: 14px;" bx:shape="n-gon 249.812 92.087 96.922 48.954 4 0 1@75e6520e"/>
+  <path d="M 386.685 115.113 L 483.606 164.066 L 386.685 213.02 L 289.763 164.066 L 386.685 115.113 Z" style="stroke: rgb(0, 0, 0); paint-order: stroke; fill: rgb(255, 255, 255); stroke-width: 14px;"/>
+  <path d="M 112.937 116.743 L 209.858 165.696 L 112.937 214.651 L 16.015 165.696 L 112.937 116.743 Z" style="stroke: rgb(0, 0, 0); paint-order: stroke; fill: rgb(255, 255, 255); stroke-width: 14px;"/>
+  <path d="M 244.631 186.912 L 341.552 235.867 L 244.631 284.82 L 147.709 235.867 L 244.631 186.912 Z" style="stroke: rgb(0, 0, 0); paint-order: stroke; fill: rgb(255, 255, 255); stroke-width: 14px;"/>
+  <path d="M 249.071 10.676 L 345.99 59.63 L 249.071 108.583 L 152.149 59.63 L 249.071 10.676 Z" style="stroke: rgb(0, 0, 0); paint-order: stroke; stroke-width: 14px;"/>
+</svg>

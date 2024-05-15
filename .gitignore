@@ -1,0 +1,7 @@
+# Godot 4+ specific ignores
+.import
+.godot/
+export.cfg
+export_presets.cfg
+
+addons/godot-git-plugin/
