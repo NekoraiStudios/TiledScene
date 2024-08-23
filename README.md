@@ -15,5 +15,3 @@ TiledScene is made by [NekoraiSama](https://nekoraistudios.com)
 ## License
 
 Licensed under the MIT license, see `LICENSE` for more information.
-
-

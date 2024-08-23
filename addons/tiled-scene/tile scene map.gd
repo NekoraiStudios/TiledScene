@@ -3,7 +3,7 @@
 ## Scene tiles from a TileSetScenesCollectionSource may be initialized after their parent. This is only queued when inside the scene tree.
 ##
 ## To force an update earlier on, call update_internals().
-class_name TileSceneMap extends TileMap
+class_name TileSceneMap extends TileMapLayer
 
 ## This contains the list of instanciated child node for the scene tile you may used in your tiled scene
 var ListedSceneTile:Dictionary = {};
